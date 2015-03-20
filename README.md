@@ -5,6 +5,7 @@ Phago Memo is a in-memory cache management nodejs tool with a tight schema valid
 Features :
 - Store Object/List
 - Fetch Object/List
+- Fetch Object/List with dependent objects
 - Manipulate Object/List
 - Search Objects
 
