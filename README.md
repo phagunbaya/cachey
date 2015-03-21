@@ -43,5 +43,4 @@ Examples:
 
 Note - More detailed examples in test directory.
 
-License:
-MIT Lience
+License: ???
