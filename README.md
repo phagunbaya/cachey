@@ -1,6 +1,6 @@
-Phago Memo
+Cachey
 
-Phago Memo is a in-memory cache management nodejs tool with a tight schema validation. It does not need any dependencies on any of the database service. It can be used as a supplement for caching the objects and quering them in-memory.
+Cachey is a in-memory cache management nodejs tool with a tight schema validation. It does not need any dependencies on any of the database service. It can be used as a supplement for caching the objects and quering them in-memory.
 
 Features :
 - Store Object/List
@@ -10,7 +10,7 @@ Features :
 - Search Objects
 
 Requirement:
-- In order to use phago-memo within your app, you will need to stucture your data shapes in form of a json schema. Sample json schema can be found in the test directory.
+- In order to use cachey within your app, you will need to stucture your data shapes in form of a json schema. Sample json schema can be found in the test directory.
 
 Examples:
 1. Store Object
