@@ -1,4 +1,4 @@
-## Cachey
+Cachey
 
 Cachey is a in-memory cache management nodejs tool with a tight schema validation. It does not need any dependencies on any of the database service. It can be used as a supplement for caching the objects and quering them in-memory.
 
